@@ -1,0 +1,11 @@
+/src/META-INF
+/out
+/nbproject
+/skins
+/build.xml
+*.class
+*.iml
+.idea/
+out/
+/nbproject/private/
+/build/
